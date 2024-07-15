@@ -19,9 +19,7 @@ It is important to note that :<br>
   dynamic_background: ^0.1.3<br>
   bubble: ^1.2.1<br>
   heart_overlay: ^1.4.1<br>
-<br><br>
-
-dev_dependencies:<br>
+   dev_dependencies:<br>
   flutter_test:<br>
     sdk: flutter<br>
   heart_overlay: ^1.4.1<br>
