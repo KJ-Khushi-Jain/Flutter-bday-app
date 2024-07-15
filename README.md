@@ -7,9 +7,9 @@ It is important to note that :<br>
 1. Replace the lib folder with this lib folder in your flutter app.<br>
 2. Create a photos folder with specified photo names or u may change the name in the code.<br>
 3. Add it to assets in the pubspec.yaml file. Like this :<br>
-   assets:<br>
+   assets:
       - photos/<br>
-4. Chande the dependencies :<br>
+4. Change the dependencies :<br><br>
    dependencies:<br>
   flutter:<br>
     sdk: flutter<br>
